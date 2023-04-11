@@ -1,15 +1,17 @@
-<h1 align="center">Hi 👋, I'm Hamad Ullah</h1>
+<h1 align="center">Hello there, I'm Hamad Ullah</h1>
 <h3 align="center">A Software Engineering student and a Front-End Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamadullah16&label=Profile%20views&color=0e75b6&style=flat" alt="hamadullah16" /> </p>
 
+- 🔭 I’m currently working as [Freelance Front-End Developer](https://www.upwork.com/freelancers/~019b0b1b1406a889c6)
+
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **JavaScript ES6, WordPress, BootStrap5, SEO**
+- 💬 My Skill-set includes: **JavaScript ES6, WordPress, BootStrap5, SEO**
 
-- 📫 How to reach me **hamadullah16@gmail.com**
+- 📫 Connect with me: **hamadullah16@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jmdcUEnKlh154RDENWIJ5zCB4rVT3H7z/view?usp=sharing](https://drive.google.com/file/d/1jmdcUEnKlh154RDENWIJ5zCB4rVT3H7z/view?usp=sharing)
+- 📄 Checkout my resume: [https://drive.google.com/file/d/1jmdcUEnKlh154RDENWIJ5zCB4rVT3H7z/view?usp=sharing](https://drive.google.com/file/d/1jmdcUEnKlh154RDENWIJ5zCB4rVT3H7z/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
