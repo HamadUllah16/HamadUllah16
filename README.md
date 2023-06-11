@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, I'm Hamad Ullah</h1>
-<h3 align="center">A Software Engineering student and a Front-End Developer.</h3>
+<h3 align="center">A Front End Software Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamadullah16&label=Profile%20views&color=0e75b6&style=flat" alt="hamadullah16" /> </p>
 
@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 My Skill-set includes: **JavaScript ES6, WordPress, BootStrap5, SEO**
+- 💬 My Skill-set includes: **HTMl & CSS, BootStrap5, JavaScript ES6, ReactJS, ExpressJS, MongoDB, WordPress,  SEO**
 
 - 📫 Connect with me: **hamadullah16@gmail.com**
 
-- 📄 Checkout my resume: [https://drive.google.com/file/d/1jmdcUEnKlh154RDENWIJ5zCB4rVT3H7z/view?usp=sharing](https://drive.google.com/file/d/1jmdcUEnKlh154RDENWIJ5zCB4rVT3H7z/view?usp=sharing)
+- 📄 Checkout my resume: [[https://drive.google.com/file/d/1jmdcUEnKlh154RDENWIJ5zCB4rVT3H7z/view?usp=sharing](https://drive.google.com/file/d/1nA8wUdN7XHCxARKIIx43VsUkFZR2yz0i/view?usp=drive_link)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
