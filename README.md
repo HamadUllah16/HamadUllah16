@@ -3,15 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamadullah16&label=Profile%20views&color=0e75b6&style=flat" alt="hamadullah16" /> </p>
 
-- 🔭 I’m currently working as [Freelance Front-End Developer](https://www.upwork.com/freelancers/~019b0b1b1406a889c6)
-
-- 🌱 I’m currently learning **MERN Stack**
-
 - 💬 My Skill-set includes: **HTMl & CSS, BootStrap5, JavaScript ES6, ReactJS, ExpressJS, MongoDB, WordPress,  SEO**
 
 - 📫 Connect with me: **hamadullah16@gmail.com**
 
-- 📄 Checkout my resume: [[https://drive.google.com/file/d/1jmdcUEnKlh154RDENWIJ5zCB4rVT3H7z/view?usp=sharing](https://drive.google.com/file/d/1nA8wUdN7XHCxARKIIx43VsUkFZR2yz0i/view?usp=drive_link)]
+- 📄 Checkout my resume: https://drive.google.com/file/d/17DSTjaEu7lF-ucB567Hqi97pdnYcMwAs/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
