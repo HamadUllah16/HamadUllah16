@@ -8,6 +8,12 @@
 - 📫 Connect with me: **hamadullah16@gmail.com**
 
 - 📄 Checkout my resume: [https://drive.google.com/file/d/17DSTjaEu7lF-ucB567Hqi97pdnYcMwAs/view?usp=sharing](https://drive.google.com/file/d/13Sd_fu7WjzZRdZb2yeoLCxyHQjqcDYWY/view?usp=sharing)
+- Projects:
+- <ul>
+  <li><a href="https://hamad-portfolio.vercel.app" target="_blank">React Portfolio App</a></li>
+  <li><a href="https://github.com/HamadUllah16/ExpressAPI" target="_blank">Express API YelpCamps (CRUD)</a></li>
+  <li><a href="https://hamad-todo.vercel.app" target="_blank">React ToDo App</a></li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
