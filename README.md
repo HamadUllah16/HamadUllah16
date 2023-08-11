@@ -7,7 +7,7 @@
 
 - 📫 Connect with me: **hamadullah16@gmail.com**
 
-- 📄 Checkout my resume: https://drive.google.com/file/d/17DSTjaEu7lF-ucB567Hqi97pdnYcMwAs/view?usp=sharing
+- 📄 Checkout my resume: [https://drive.google.com/file/d/17DSTjaEu7lF-ucB567Hqi97pdnYcMwAs/view?usp=sharing](https://drive.google.com/file/d/13Sd_fu7WjzZRdZb2yeoLCxyHQjqcDYWY/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
