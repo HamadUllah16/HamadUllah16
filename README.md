@@ -1,23 +1,23 @@
 <h1 align="center">Hello there, I'm Hamad Ullah</h1>
-<h3 align="center">A Front End Software Engineer.</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamadullah16&label=Profile%20views&color=0e75b6&style=flat" alt="hamadullah16" /> </p>
 
-- 💬 My Skill-set includes: **HTMl & CSS, BootStrap5, JavaScript ES6, ReactJS, ExpressJS, MongoDB, WordPress,  SEO**
+- 💬 My Skill-set includes: **HTMl5 & CSS3, BootStrap5, JavaScript ES6, ReactJS, ExpressJS, MongoDB, WordPress,  SEO**
 
 - 📫 Connect with me: **hamadullah16@gmail.com**
 
-- 📄 Checkout my resume: [https://drive.google.com/file/d/17DSTjaEu7lF-ucB567Hqi97pdnYcMwAs/view?usp=sharing](https://drive.google.com/file/d/13Sd_fu7WjzZRdZb2yeoLCxyHQjqcDYWY/view?usp=sharing)
+- 📄 Checkout my resume: [https://drive.google.com/file/d/17DSTjaEu7lF-ucB567Hqi97pdnYcMwAs/view?usp=sharing](https://drive.google.com/file/d/1P4AM6cQE4k2EXS9B-Q2-mzgBHih8OABe/view?usp=share_link)
 - Projects:
  <ul>
-  <li><a href="https://hamad-portfolio.vercel.app" target="_blank">Portfolio App (React)</a></li>
-  <li><a href="https://github.com/HamadUllah16/ExpressAPI" target="_blank">REST API (ExpressJS) (CRUD)</a></li>
-  <li><a href="https://littlelemonchicago.vercel.app" target="_blank">Little Lemon Restaurant (React)</a></li>
+  <li><a href="https://littlelemonchicago.vercel.app" target="_blank">Little Lemon Restaurant - React App</a></li>
+  <li><a href="https://github.com/HamadUllah16/YelpCamps_MERN-App" target="_blank">Yelp Camps - MERN App</a></li>
+  <li><a href="https://hamad-portfolio.vercel.app" target="_blank">Portfolio - React App</a></li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pve5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pve5/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/pve5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hamadullah16/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
