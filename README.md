@@ -7,7 +7,7 @@
 
 - 📫 Connect with me: **hamadullah16@gmail.com**
 
-- 📄 Checkout my resume: [https://drive.google.com/file/d/17DSTjaEu7lF-ucB567Hqi97pdnYcMwAs/view?usp=sharing](https://drive.google.com/file/d/1P4AM6cQE4k2EXS9B-Q2-mzgBHih8OABe/view?usp=share_link)
+- 📄 Checkout my resume: (https://drive.google.com/drive/folders/1FDnrdXdSfXuB3Jt1_3Sc-OdyTcQocRDt?usp=drive_link)
 - Projects:
  <ul>
   <li><a href="https://littlelemonchicago.vercel.app" target="_blank">Little Lemon Restaurant - React App</a></li>
