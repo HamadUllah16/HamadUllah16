@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamadullah16&label=Profile%20views&color=0e75b6&style=flat" alt="hamadullah16" /> </p>
 
-- 💬 My Skill-set includes: **HTMl5 & CSS3, BootStrap5, JavaScript ES6, ReactJS, ExpressJS, MongoDB, WordPress,  SEO**
+- 💬 My Skill-set includes: ** ReactJS, ExpressJS, MongoDB, HTMl5 & CSS3, BootStrap5, JavaScript ES6, Java, Python, WordPress,  SEO**
 
 - 📫 Connect with me: **hamadullah16@gmail.com**
 
