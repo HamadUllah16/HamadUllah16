@@ -7,12 +7,12 @@
 
 - 📫 Connect with me: **hamadullah16@gmail.com**
 
-- 📄 Checkout my resume: (https://drive.google.com/drive/folders/1FDnrdXdSfXuB3Jt1_3Sc-OdyTcQocRDt?usp=drive_link)
+- 📄 Checkout my resume: (https://drive.google.com/file/d/11DT1DB8Gt6gICzkeKliw5NdEY1Zj64DY/view?usp=sharing)
 - Projects:
  <ul>
   <li><a href="https://littlelemonchicago.vercel.app" target="_blank">Little Lemon Restaurant - React App</a></li>
   <li><a href="https://github.com/HamadUllah16/YelpCamps_MERN-App" target="_blank">Yelp Camps - MERN App</a></li>
-  <li><a href="https://hamad-portfolio.vercel.app" target="_blank">Portfolio - React App</a></li>
+  <li><a href="https://hamad-portfolio.vercel.app" target="_blank">Portfolio App</a></li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
