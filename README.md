@@ -1,7 +1,7 @@
 <h1 align="left"> Hey there, I'm Hamad 👋 </h1>
 
 <p align="left">
-   <a href="https://hamad-portfolio.vercel.app/"><img alt="Portfolio" src="https://i.imgur.com/PY46yqx.png"></a>
+   <a href="https://hamad-portfolio.vercel.app/"><img width="50" height="50" alt="Portfolio" src="https://i.imgur.com/PY46yqx.png"></a>
    <a href="https://www.linkedin.com/in/hamadullah16/"><img alt="LinkedIn" src="https://cdn-icons-png.freepik.com/512/0/618.png"></a>
    <a href="mailto:hamadullah16@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-dewithmiramon@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dewithmiramon@gmail.com"></a>
 </p>
