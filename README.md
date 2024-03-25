@@ -1,9 +1,9 @@
 <h1 align="left"> Hey there, I'm Hamad 👋 </h1>
 
 <p align="left">
-   <a href="https://hamad-portfolio.vercel.app/"><img width="50" height="50" alt="Portfolio" src="https://i.imgur.com/PY46yqx.png"></a>
-   <a href="https://www.linkedin.com/in/hamadullah16/"><img alt="LinkedIn" src="https://cdn-icons-png.freepik.com/512/0/618.png"></a>
-   <a href="mailto:hamadullah16@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-dewithmiramon@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dewithmiramon@gmail.com"></a>
+   <a href="https://hamad-portfolio.vercel.app/"><img width="20" height="20" alt="Portfolio" src="https://i.imgur.com/PY46yqx.png"></a>
+   <a href="https://www.linkedin.com/in/hamadullah16/"><img width="50" height="50" alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/256/174/174857.png"></a>
+   <a href="mailto:hamadullah16@gmail.com"><img width="50" height="50" alt="Gmail" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png"></a>
 </p>
 
 <h3 align="left">  I'm a software engineer obsessed with systemic and conventional way of applications and software. </h3>
