@@ -6,7 +6,7 @@
    <a href="mailto:hamadullah16@gmail.com"><img width="20" height="20" alt="Gmail" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png"></a>
 </p>
 
-<h3 align="left">  I'm a software engineer obsessed with systemic and conventional way of applications and software. </h3>
+<h3 align="left">  I'm a software engineer obsessed with systemic and conventional way of building applications and software. </h3>
 
 ---
 
