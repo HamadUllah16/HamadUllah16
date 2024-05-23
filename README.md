@@ -7,7 +7,7 @@
 </p>
 
 <h3 align="left">  I'm a software engineer obsessed with systemic and conventional way of building applications and software. </h3>
-
+<a align="left" href="https://drive.google.com/drive/folders/1qfen1IlVD3V-dI6xLf25zWJ8G16kPIeh?usp=sharing">Resume</a>
 ---
 
 <h3 align="left">Languages and Tools:</h3>
