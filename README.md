@@ -18,7 +18,7 @@
 <p align="center">I'm a Software Engineer with a passion for building efficient and scalable front-end solutions. I specialize in creating interactive, intuitive, and responsive user interfaces using modern web technologies.</p>
 
 - 🌱 Currently diving deeper into **Next.js** and **TypeScript**.
-- 🛠️ I love working with **React**, **Redux**, **ShadCN**, **Framer-Motion**, and **Material UI** to craft engaging user experiences.
+- 🛠️ I love working with **React**, **Redux**, **ShadCN**, **Framer Motion**, and **Material UI**.
 - 🌍 Based in **Pakistan**, open to remote opportunities.
 - 📄 [Check out my Resume](https://drive.google.com/drive/folders/1qfen1IlVD3V-dI6xLf25zWJ8G16kPIeh?usp=sharing)
 
@@ -26,55 +26,30 @@
 
 <h3 align="center">🛠️ Languages, Frameworks & Tools</h3>
 
-<h6 align="start">
-   Front-End
-</h6>
-<p>
-    Typescript, NextJS, React, ReactNative, Material UI, ShadCN, TailwindCSS, Bootstrap5, Framer-Motion
-</p>
+<h6 align="start">Front-End</h6>
+<p>Typescript, NextJS, React, ReactNative, Material UI, ShadCN, TailwindCSS, Bootstrap5, Framer Motion</p>
 
-<h6 align="start">
-   Back-End
-</h6>
-<p>
-    Typescript, NodeJS, Express, MongoDB, PostgreSQL, Supabase, Prisma, Material UI, ShadCN, TailwindCSS, Bootstrap5, Framer-Motion
-</p>
+<h6 align="start">Back-End</h6>
+<p>NodeJS, Express, MongoDB, PostgreSQL, Supabase, Prisma</p>
 
-<h6 align="start">
-   Blockchain
-</h6>
-<p>
-    Solana Smart Contracts, Rust, Anchor Framework, Solana SDK
-</p>
+<h6 align="start">Blockchain</h6>
+<p>Solana Smart Contracts, Rust, Anchor Framework, Solana SDK</p>
 
-<h6 align="start">
-   Deployment
-</h6>
-<p>
-    Vercel, Amazon Elastic Beanstalk, Amazon Elastic Cloud
-</p>
+<h6 align="start">Deployment</h6>
+<p>Vercel, Amazon EC2, Amazon Elastic Beanstalk</p>
 
-
-<h6 align="start">
-   Tools
-</h6>
-<p>
-    Git, GitHub, Ubuntu, VSCode
-</p>
-
-
+<h6 align="start">Tools</h6>
+<p>Git, GitHub, Ubuntu, VSCode</p>
 
 ---
 
 <h3 align="center">📈 GitHub Stats</h3>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HamadUllah16&show_icons=true&theme=radical" alt="Hamad's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamadUllah16&theme=radical" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HamadUllah16&show_icons=true&theme=radical" alt="Hamad's GitHub Stats" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamadUllah16&theme=radical" alt="GitHub Streak" width="45%"/>
 </p>
-
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamadUllah16&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamadUllah16&layout=compact&theme=radical" alt="Top Languages" width="45%"/>
 </p>
 
 ---
@@ -97,5 +72,3 @@
 </p>
 
 ---
-
-⭐️ From [HamadUllah16](https://github.com/HamadUllah16)
