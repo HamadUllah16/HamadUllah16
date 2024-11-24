@@ -2,13 +2,13 @@
 
 <p align="center">
    <a href="https://hamad-portfolio.vercel.app/" target="_blank">
-      <img src="https://i.imgur.com/PY46yqx.png" alt="Portfolio" width="20" height="20">
+      Portfolio
    </a>
    <a href="https://www.linkedin.com/in/hamadullah16/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="LinkedIn" width="20" height="20">
+     Linkedin
    </a>
    <a href="mailto:hamadullah16@gmail.com">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Gmail" width="20" height="20">
+      Mail
    </a>
 </p>
 
@@ -17,8 +17,8 @@
 <h3 align="center">🚀 About Me</h3>
 <p align="center">I'm a Software Engineer with a passion for building efficient and scalable front-end solutions. I specialize in creating interactive, intuitive, and responsive user interfaces using modern web technologies.</p>
 
-- 🌱 Currently diving deeper into **Next.js** and **TypeScript**.
-- 🛠️ I love working with **React**, **Redux**, **ShadCN**, **Framer Motion**, and **Material UI**.
+- 🌱 Currently diving deeper into **Blockchain**.
+- 🛠️ I love working with  **Next.js**, **React**, **Redux**, **ShadCN**, **Framer Motion**, and **Material UI**.
 - 🌍 Based in **Pakistan**, open to remote opportunities.
 - 📄 [Check out my Resume](https://drive.google.com/drive/folders/1qfen1IlVD3V-dI6xLf25zWJ8G16kPIeh?usp=sharing)
 
