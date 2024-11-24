@@ -4,11 +4,11 @@
    <a href="https://hamad-portfolio.vercel.app/" target="_blank">
       Portfolio
    </a>
-    
+    |
    <a href="https://www.linkedin.com/in/hamadullah16/" target="_blank">
      Linkedin
    </a>
-    
+    |
    <a href="mailto:hamadullah16@gmail.com">
       Mail
    </a>
