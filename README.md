@@ -19,7 +19,7 @@
 <h3 align="center">🚀 About Me</h3>
 <p align="center">I'm a Software Engineer with a passion for building efficient and scalable front-end solutions. I specialize in creating interactive, intuitive, and responsive user interfaces using modern web technologies.</p>
 
-- 🌱 Currently diving deeper into **Blockchain**.
+- 🌱 Currently diving deeper into **Nexts.js**.
 - 🛠️ I love working with  **Next.js**, **React**, **Redux**, **ShadCN**, **Framer Motion**, and **Material UI**.
 - 🌍 Based in **Pakistan**, open to remote opportunities.
 - 📄 [Check out my Resume](https://drive.google.com/drive/folders/1qfen1IlVD3V-dI6xLf25zWJ8G16kPIeh?usp=sharing)
