@@ -19,8 +19,8 @@
 <h3 align="center">🚀 About Me</h3>
 <p align="center">I'm a Software Engineer with a passion for building efficient and scalable front-end solutions. I specialize in creating interactive, intuitive, and responsive user interfaces using modern web technologies.</p>
 
-- 🌱 Currently diving deeper into **Nexts.js**.
-- 🛠️ I love working with  **Next.js**, **React**, **Redux**, **ShadCN**, **Framer Motion**, and **Material UI**.
+- 🌱 Currently diving deeper into **Web3 Development**.
+- 🛠️ I love working on the Front-End.
 - 🌍 Based in **Pakistan**, open to remote opportunities.
 - 📄 [Check out my Resume](https://drive.google.com/drive/folders/1qfen1IlVD3V-dI6xLf25zWJ8G16kPIeh?usp=sharing)
 
@@ -35,10 +35,10 @@
 <p>NodeJS, Express, MongoDB, PostgreSQL, Supabase, Prisma</p>
 
 <h6 align="start">Blockchain</h6>
-<p>Solana Smart Contracts, Rust, Anchor Framework, Solana SDK</p>
+<p>Solana Smart Contracts, Rust, Anchor Framework, Solana SDK, Web3</p>
 
 <h6 align="start">Deployment</h6>
-<p>Vercel, Amazon EC2, Amazon Elastic Beanstalk</p>
+<p>Vercel, AWS EC2, AWS Elastic Beanstalk</p>
 
 <h6 align="start">Tools</h6>
 <p>Git, GitHub, Ubuntu, VSCode</p>
