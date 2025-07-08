@@ -15,7 +15,7 @@
 </p>
 
 <h3>About Me</h3>
-<p>I'm Hamad, a Software Engineer specialized in building Full Stack Web Applications as well as Blockchain dApps. I obsess over systematic and conventional way of building applications and software.</p>
+<p>I'm Hamad, a Software Engineer specialized in Frontend Development. I obsess over systematic and conventional way of building applications and software.</p>
 
 ---
 
