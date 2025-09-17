@@ -3,7 +3,7 @@
 <a href="https://drive.google.com/drive/folders/1qfen1IlVD3V-dI6xLf25zWJ8G16kPIeh?usp=sharing">
    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
 </a>
-   <a href="https://hamad-portfolio.vercel.app/">
+   <a href="https://hamad.work">
       <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
    </a>
    <a href="https://www.linkedin.com/in/hamadullah16/">
@@ -15,7 +15,7 @@
 </p>
 
 <h3>About Me</h3>
-<p>I'm Hamad, a Software Engineer specialized in Frontend Development. I obsess over systematic and conventional way of building applications and software.</p>
+<p>I'm Hamad, a Software Engineer specialized in Full Stack Development</p>
 
 ---
 
